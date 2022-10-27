@@ -6,9 +6,9 @@
 \alias{gghdr-package}
 \title{gghdr: Visualisation of Highest Density Regions in 'ggplot2'}
 \description{
-\if{html}{\figure{logo.png}{options: align='right' alt='logo' width='120'}}
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
 
-Provides 'ggplot2' framework for visualising Highest Density Regions (HDR) <doi:10.1080/00031305.1996.10474359>. This work is based on the package 'hdrcde'<https://pkg.robjhyndman.com/hdrcde/> and displays highest density regions in 'ggplot2' for one and two dimensions and univariate densities conditional on one covariate.
+Provides 'ggplot2' framework for visualising Highest Density Regions (HDR) \doi{10.1080/00031305.1996.10474359}. This work is based on the package 'hdrcde'\url{https://pkg.robjhyndman.com/hdrcde/} and displays highest density regions in 'ggplot2' for one and two dimensions and univariate densities conditional on one covariate.
 }
 \seealso{
 Useful links:
